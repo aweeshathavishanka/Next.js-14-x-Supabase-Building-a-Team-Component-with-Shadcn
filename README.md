@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 Next.js 14 x Supabase --- Building a Team Component with Shadcn
+================================================================
 
-## Getting Started
+Welcome to my Next.js 14 and Supabase project! This repository showcases the step-by-step process of creating a dynamic and efficient Team component using the powerful Shadcn library. Join me on this exciting journey where we dive deep into modern web development practices, clean architecture, and real-time functionality.
 
-First, run the development server:
+📽️ Chapters Breakdown
+----------------------
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-   Trailer
+-   Introduction
+-   Product Schema
+-   Cleaning Our Next.js Starter
+-   Shadcn Integration
+-   Architecture Overview
+-   Team.tsx Development
+-   New.tsx Component
+-   Columns.tsx Setup
+-   useHelpers.ts Utilities
+-   Roles and Select Implementation
+-   Status Management
+-   Remove.tsx Component
+-   Revisiting Architecture
+-   CustomButton.tsx Creation
+-   Enhancing New.tsx
+-   Dialog Component
+-   Dialog Feature by @joshtriedcoding 🤣
+-   Supabase Integration
+-   Teams Table Setup
+-   Teams RLS Policy
+-   Creating Our Team
+-   Team_members Table Setup
+-   Team & Team_members Foreign Keys Relationship
+-   Supabase SQL Editor Usage
+-   Team_members RLS Policies
+-   Updating Team.tsx
+-   Realtime Features
+-   Testing
+-   Custom Loading Component
+-   Updating New.tsx + Team_id
+-   Further Testing
+-   Updating Remove.tsx
+-   Sonner & Toasts Integration
+-   Success! We Did It!
+-   Last Suggestion for Component
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✨ Highlights
+------------
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-   Product Schema: Learn how to define and organize your product's data structure.
+-   Shadcn Integration: Seamlessly integrate Shadcn to enhance your component's functionality and design.
+-   Architecture: Get insights into a clean and scalable architecture for your Next.js projects.
+-   Supabase: Harness the power of Supabase for real-time data handling and storage.
+-   Real-time Functionality: Implement real-time updates to keep your application state in sync.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project is perfect for developers looking to expand their knowledge of Next.js, Supabase, and modern component libraries. Follow along and build something amazing!
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* * * * *
